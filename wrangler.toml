@@ -4,7 +4,7 @@ compatibility_date = "2024-05-23"
 minify = true
 
 [[kv_namespaces]]
-binding = "SIREN"
+binding = "kv"
 id = "2df1a5a9381947448972da37f7c27233"
 
 [build]
